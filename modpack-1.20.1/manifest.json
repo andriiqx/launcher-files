@@ -11,11 +11,12 @@
   "generated_files": 1,
   "whitelist": [],
   "seed_files": [],
+  "optional_groups": {},
   "files": [
     {
       "path": "mods/andrycorebase-1.0.jar",
-      "size": 45876,
-      "sha1": "91e24f202aa2f94e0daaceac9e550bc98842389f",
+      "size": 126031,
+      "sha1": "e014f9a265b789cab5d6e4383b493d9f90ed8969",
       "url": "https://andriiqx.github.io/launcher-files/modpack-1.20.1/files/mods/andrycorebase-1.0.jar"
     }
   ]
