@@ -8,6 +8,7 @@
   "server_name": "MyServer",
   "server_ip": "play.myserver.com:25565",
   "allow_user_mods": false,
+  "encrypted": true,
   "generated_files": 1,
   "whitelist": [],
   "seed_files": [],
