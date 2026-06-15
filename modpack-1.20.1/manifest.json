@@ -18,7 +18,9 @@
       "path": "mods/andrycorebase-1.0.jar",
       "size": 199945,
       "sha1": "93edbbc8fd28458d898601c8d3cc122e1d121c4f",
-      "url": "https://andriiqx.github.io/launcher-files/modpack-1.20.1/files/mods/andrycorebase-1.0.jar"
+      "url": "https://andriiqx.github.io/launcher-files/modpack-1.20.1/files/mods/andrycorebase-1.0.mod",
+      "encrypted": true,
+      "encrypted_size": 199998
     }
   ]
 }
