@@ -9,7 +9,7 @@
   "server_ip": "play.myserver.com:25565",
   "manifest_url": "https://andriiqx.github.io/launcher-files/modpack-1.20.1/manifest.json",
   "files_base_url": "https://andriiqx.github.io/launcher-files/modpack-1.20.1/files/",
-  "manifest_sha1": "8974dea4c7f065a83148f99232b1a84e7463875b",
+  "manifest_sha1": "d9909d9f256fc5daba32f0e507cf557729f4d99f",
   "allow_user_mods": false
 }
 ]
